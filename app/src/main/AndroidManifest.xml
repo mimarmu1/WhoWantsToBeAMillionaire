@@ -16,6 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="sdm.ejemplos.WWTBAM.PlayActivity"
+            android:label="@string/title_activity_play" >
+        </activity>
+        <activity
+            android:name="sdm.ejemplos.WWTBAM.ScoresActivity"
+            android:label="@string/title_activity_scores" >
+        </activity>
+        <activity
+            android:name="sdm.ejemplos.WWTBAM.SettingsActivity"
+            android:label="@string/title_activity_settings" >
+        </activity>
     </application>
 
 </manifest>

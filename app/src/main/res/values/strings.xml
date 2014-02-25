@@ -3,5 +3,12 @@
 
     <string name="app_name">Who Wants To Be A Millionaire</string>
     <string name="hello_world">Hello world!</string>
+    <string name="playString">Play</string>
+    <string name="scoresString">Scores</string>
+    <string name="settingsString">Settings</string>
+    <string name="title_activity_main_activity2">MainActivity</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="title_activity_scores">ScoresActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
 
 </resources>
